@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Tagnummer>1</Tagnummer>
+    <Anzahl>2</Anzahl>
+    <Warenname>a</Warenname>
+  </Table1>
+  <Table1>
+    <Tagnummer>1</Tagnummer>
+    <Anzahl>2</Anzahl>
+    <Warenname>b</Warenname>
+  </Table1>
+</NewDataSet>
